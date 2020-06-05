@@ -28,6 +28,10 @@ Installation
 
 3. Follow the instructions provided by the installer.
 
+Demo
+----
+Click on button [![Runme](https://runme.io/static/button.svg)](https://runme.io/run?app_id=77274dfa-4203-4eeb-a4c4-1c8cb34b9e28)
+
 Bug Reports and Feature Requests
 --------------------------------
 Please use the GitHub
